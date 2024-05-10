@@ -95,7 +95,6 @@ RegisterNumber: 212223040077
 ![Screenshot (38)](https://github.com/23005672/FULL_ADDER_SUBTRACTOR/assets/138971519/1ebe8851-dd84-47c0-a6e2-040e73a61d8e)
 ## Full_subtractor
 ![Screenshot (39)](https://github.com/23005672/FULL_ADDER_SUBTRACTOR/assets/138971519/32788124-8d44-469f-a1a2-92375eb05afb)
-
 ## Result:
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
